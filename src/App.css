@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.paraWhite {
+  text-align: center;
+  color: #000;
+  font-weight: 400;
+}
+
+.paraBlack {
+  text-align: center;
+  color: #fff;
+  font-weight: 400;
+
+}
